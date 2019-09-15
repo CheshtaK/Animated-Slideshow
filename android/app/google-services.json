@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467905957372",
+    "firebase_url": "https://embirthday-316d0.firebaseio.com",
+    "project_id": "embirthday-316d0",
+    "storage_bucket": "embirthday-316d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467905957372:android:e48e7273423b0d3504f679",
+        "android_client_info": {
+          "package_name": "com.example.him"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467905957372-pjnpuekih0p3oqf6oqesofubpagt8ref.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnSFwNPjrCYZOg2Xle9jDsENW_onTgenE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467905957372-pjnpuekih0p3oqf6oqesofubpagt8ref.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
